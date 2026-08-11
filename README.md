@@ -2,7 +2,6 @@
 
 A console-based simulation of a cloud file storage system (think Google Drive), built entirely in C++ using custom-built data structures — no STL containers for the core logic. Every feature (version history, recycle bin, recent files, sharing, folder trees) is backed by a hand-rolled linked list, stack, queue, graph, or hash table.
 
-![Main Menu](screenshots/main-menu.png)
 
 ## Why this project
 
